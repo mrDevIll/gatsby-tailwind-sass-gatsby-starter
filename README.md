@@ -5,15 +5,17 @@
 
 This starter ships with the main Gatsby configuration files, sass and tailwind to get a ready to go website with React and tailwind.
 
-## 🚀 Quick start
+#  Quick start
 
-1.  ** Installation **
+ ** Installation **
+
     clone the git repo:
+ 
   ```shell
     # clones repo
     git clone https://github.com/mrDevIll/gatsby-tailwind-sass-installer.git 
     cd gatsby-tailwind-sass-installer
-    ```
+   ```
 
    ```shell
     # installs gatsby and tailwind and sass dependencies 
@@ -24,8 +26,8 @@ This starter ships with the main Gatsby configuration files, sass and tailwind t
   ```shell
     # installs gatsby and tailwind and sass dependencies 
     yarn install
-    ```
-1.  **Start developing.**
+   ```
+  ** Start developing. **
 
     Navigate into your new site’s directory and start it up.
 
@@ -34,7 +36,7 @@ This starter ships with the main Gatsby configuration files, sass and tailwind t
     gatsby develop
     ```
 
-1.  **Open the source code and start editing!**
+  ** Open the source code and start editing! **
 
     Your site is now running at `http://localhost:8000`!
 
@@ -42,7 +44,7 @@ This starter ships with the main Gatsby configuration files, sass and tailwind t
 
     Open the `my-hello-world-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
-## 🧐 Usage
+## Usage
   
      In  """ css/style.scss """ you can add your sass customer code while """ css/tailwind.css """ imports tailwind in your project.
      If you wish to import your sass files please add them to """ gatsby-browser.js """.
@@ -51,7 +53,7 @@ This starter ships with the main Gatsby configuration files, sass and tailwind t
 
      I added a layout component with a header, footer and layout.   
 
-## 💫 Deploy
+## Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
